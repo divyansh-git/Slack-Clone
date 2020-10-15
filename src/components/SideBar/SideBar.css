@@ -1,0 +1,6 @@
+.side_bar{
+    background :rgb(64,17,64) !important;
+    font-size : 1.2rem  !important;
+    overflow-y: scroll;
+    
+}
